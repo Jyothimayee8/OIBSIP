@@ -41,10 +41,6 @@ Pizza-Canvas/
 - Practiced background layering & opacity effects
 - Improved HTML page structuring and navigation
 
-## 📸 Screenshots
-
-> Add screenshots here if needed using:
-> `![Home Screenshot](screenshots/home.png)`
 
 ## 🏆 Internship Credit
 
